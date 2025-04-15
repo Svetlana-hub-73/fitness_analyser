@@ -14,7 +14,7 @@
 
 ## 📸 Скриншот
 
-![demo](https://github.com/yourusername/fitness-analyzer/raw/main/demo.png)
+![demo](https://github.com/Svetlana-hub-73/fitness_analyser/issues)
 
 ## 🚀 Запуск локально
 
